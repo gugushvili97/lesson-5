@@ -1,18 +1,27 @@
 .header-wraper {
 	background: #F6F8F9;
 	position: fixed;
+	top: 0;
+	left: 0;
+	width: 1440px;
+	padding: 20px;
 }
 .logo {
-	margin-left: 20px;
-	margin-right: 92px;
+	/*margin-left: 20px;*/
+	/*margin-right: 92px;*/
 	/*margin-top: 18px;*/
+	display: inline-block;
 }
 .navigation {
 	display: inline-block;
 	/*margin-top: 20px;*/
 	/*margin-bottom: 19px;*/
+	margin-left: 92px;
 }
 .nav-item {
 	display: inline-block;
 	margin-right: 22px;
+}
+.section1 {
+	margin-top: 75px;
 }
