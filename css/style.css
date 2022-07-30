@@ -216,3 +216,12 @@
 .bird {
 	margin-bottom: 102px;
 }
+
+/*footer*/
+
+.footer-div {
+	width: 1440px;
+	height: 200px;
+	margin: 0 auto;
+	background: #707070;
+}
