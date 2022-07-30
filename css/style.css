@@ -164,3 +164,16 @@
 .bridge {
 	margin-bottom: 40px;
 }
+
+/*right-block*/
+.right-block {
+	width: 360px;
+	height: 896px;
+	display: inline-block;
+}
+.elephant {
+	margin-bottom: 102px;
+}
+.bird {
+	margin-bottom: 102px;
+}
