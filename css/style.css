@@ -5,6 +5,7 @@
 	left: 0;
 	width: 1440px;
 	padding: 20px;
+	z-index: 20;
 }
 .logo {
 	/*margin-left: 20px;*/
@@ -135,4 +136,31 @@
 	display: inline-block;
 	vertical-align: top;
 	color: #A6ADB4;
+}
+/*section2*/
+.section2-div {
+	width: 1160px;
+	margin: 0 auto;
+}
+.section2-header {
+	margin-top: 58px;
+	color: #202124;
+}
+
+/*left-block*/
+
+.left-block {
+	width: 760px;
+	display: inline-block;
+	position: relative;
+	margin-top: 40px;
+}
+.img-text1 {
+	position: absolute;
+	top: 194px;
+	left: 308px;
+	color: white;
+}
+.bridge {
+	margin-bottom: 40px;
 }
